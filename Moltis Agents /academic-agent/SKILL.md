@@ -1,5 +1,5 @@
 ---
-name: academic_research_philosophy
+name: academic-research-philosophy
 description: مهارة متخصصة في البحث الأكاديمي المتقدم، تحليل الأوراق العلمية من Scopus، وإدارة المعرفة الفلسفية والديداكتيكية لتغذية أطروحة الدكتوراه وأنظمة FavoResearch و Obsidian.
 version: "1.1.0"
 ---
